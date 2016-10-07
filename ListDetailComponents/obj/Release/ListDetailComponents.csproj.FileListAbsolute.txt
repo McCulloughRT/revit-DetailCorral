@@ -1,0 +1,7 @@
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Release\ListDetailComponents.addin
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Release\ListDetailComponents.dll
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Release\ListDetailComponents.pdb
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Release\ListDetailComponents.Properties.Resources.resources
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Release\ListDetailComponents.csproj.GenerateResource.Cache
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Release\ListDetailComponents.dll
+C:\Users\ryantm\Documents\Visual Studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Release\ListDetailComponents.pdb

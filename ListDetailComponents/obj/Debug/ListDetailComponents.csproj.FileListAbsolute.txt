@@ -1,0 +1,8 @@
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Debug\ListDetailComponents.addin
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Debug\ListDetailComponents.dll
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\bin\Debug\ListDetailComponents.pdb
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Debug\ListDetailComponents.csprojResolveAssemblyReference.cache
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Debug\ListDetailComponents.Properties.Resources.resources
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Debug\ListDetailComponents.csproj.GenerateResource.Cache
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Debug\ListDetailComponents.dll
+c:\users\ryantm\documents\visual studio 2015\Projects\ListDetailComponents\ListDetailComponents\obj\Debug\ListDetailComponents.pdb
